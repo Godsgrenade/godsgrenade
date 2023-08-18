@@ -1,3 +1,4 @@
+![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center">Hi 👋, I'm Haarish Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
