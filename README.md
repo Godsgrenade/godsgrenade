@@ -24,10 +24,10 @@
 
 <h3 align="left">Discover My Projects:</h3>
 <p>
-  - <a href="https://resumebuilderproto.netlify.app/" target="_blank"><strong>Resume Builder Website</strong></a>: Build and customize professional resumes with ease.
+  - <a href="https://resumebuilderproto.netlify.app/" target="_blank"><strong>📜 Resume Builder Website</strong></a>: Build and customize professional resumes with ease.
 </p>
 <p>
-  - <a href="https://bmicalultor.netlify.app/" target="_blank"><strong>BMI Calculator App</strong></a>: A simple tool to calculate your Body Mass Index.
+  - <a href="https://bmicalultor.netlify.app/" target="_blank"><strong>🏋🏽 BMI Calculator App</strong></a>: A simple tool to calculate your Body Mass Index.
 </p>
 
 ---
